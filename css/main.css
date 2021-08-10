@@ -10,9 +10,9 @@
 .wrapper{
     width: 800px;
     height: 800px; 
-    overflow-x:scroll;
-    overflow-y:scroll;     
-    white-space: nowrap;
+    overflow: auto;
+    border:2px solid #000;     
+    
 }
 
 .slide{
