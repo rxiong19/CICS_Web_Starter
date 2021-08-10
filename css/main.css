@@ -7,6 +7,18 @@
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
+.wrapper{
+    width: 500px; 
+    overflow-x:scroll;     
+    white-space: nowrap;
+}
+
+.slide{
+    background: #ccc;
+    height: 800px;
+    display: inline-block;
+    width: 450px;
+}
 
 #main-content {
     margin-top: 3rem;
