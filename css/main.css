@@ -8,8 +8,10 @@
     padding-bottom: 5rem;
 }
 .wrapper{
-    width: 800px; 
-    overflow-x:scroll;     
+    width: 800px;
+    height: 800px; 
+    overflow-x:scroll;
+    overflow-y:scroll;     
     white-space: wrap;
 }
 
