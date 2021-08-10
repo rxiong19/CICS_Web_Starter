@@ -17,9 +17,9 @@
 
 .slide{
     background: rgb(173, 54, 54);
-    height: wrap;
+    height: 800px;
     display: inline-block;
-    width: wrap;
+    width: 800px;
 }
 
 #main-content {
