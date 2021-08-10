@@ -12,7 +12,7 @@
     height: 800px; 
     overflow-x:scroll;
     overflow-y:scroll;     
-    white-space: wrap;
+    white-space: nowrap;
 }
 
 .slide{
