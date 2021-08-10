@@ -10,14 +10,14 @@
 .wrapper{
     width: 500px; 
     overflow-x:scroll;     
-    white-space: nowrap;
+    white-space: wrap;
 }
 
 .slide{
     background: rgb(173, 54, 54);
     height: 800px;
     display: inline-block;
-    width: 450px;
+    width: 800px;
 }
 
 #main-content {
