@@ -22,16 +22,16 @@
     width: 800px;
 } */
 #scroll {
-    width:2000px;
-    height:2000px;
-    margin:100px auto;
-    background:#882b2b;
+    width:1000px;
+    height:1000px;
+    margin:10px auto;
+    background:maroon;
     border:2px solid #000;
     overflow:auto;
-    white-space:nowrap;
+    white-space:normal;
     }
     #scroll img {
-    margin:1908px 4032px 0 10px;
+    margin: inherit;
     }
 
 #main-content {
